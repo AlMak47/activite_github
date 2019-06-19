@@ -9,6 +9,7 @@
 	<form>
 		<h2>Formulaire de Contact</h2>
 		<input type="text" name="Nom">
+		<input type="text" name="Prenom">
 		<input type="submit" name="" value="Envoyer">
 	</form>
 
